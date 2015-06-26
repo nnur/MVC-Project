@@ -1,0 +1,15 @@
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\bin\Debug\Nailas_Stroc_Sparky.exe.config
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\bin\Debug\Nailas_Stroc_Sparky.exe
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\bin\Debug\Nailas_Stroc_Sparky.pdb
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\bin\Debug\Nailas_Stroc_Sparky.xml
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\obj\Debug\Nailas_Stroc_Sparky.MainForm.resources
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\obj\Debug\Nailas_Stroc_Sparky.Resources.resources
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\obj\Debug\Nailas_Stroc_Sparky.View-MarketByOrder.resources
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\obj\Debug\Nailas_Stroc_Sparky.View-MarketByPrice.resources
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\obj\Debug\Nailas_Stroc_Sparky.View-PlaceBidOrder.resources
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\obj\Debug\Nailas_Stroc_Sparky.View-PlaceSellOrder.resources
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\obj\Debug\Nailas_Stroc_Sparky.View-StockStateSummary.resources
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\obj\Debug\Nailas_Stroc_Sparky.vbproj.GenerateResource.Cache
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\obj\Debug\Nailas_Stroc_Sparky.exe
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\obj\Debug\Nailas_Stroc_Sparky.xml
+c:\users\bel\documents\visual studio 2013\Projects\Nailas_Stroc_Sparky\Nailas_Stroc_Sparky\obj\Debug\Nailas_Stroc_Sparky.pdb
